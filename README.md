@@ -2,7 +2,7 @@
 - Un synthétiseur numérique avancé implémenté sur microcontrôleur STM32F746 avec enveloppe ADSR, reverb algorithmique et contrôles MIDI en temps réel.
 
 
-##🎯 Vue d'ensemble
+## 🎯 Vue d'ensemble
 Ce projet implémente un synthétiseur numérique professionnel sur la carte STM32F746G-DISCO, offrant :
 
 - Synthèse audio temps réel à 44.1 kHz/16-bit
@@ -23,7 +23,7 @@ Ce projet implémente un synthétiseur numérique professionnel sur la carte STM
 - Fréquence : Table de 200 notes (C1 à C8+)
 - Latence : < 23 µs par échantillon (contraintes temps réel)
 
-###📈 Enveloppe ADSR
+### 📈 Enveloppe ADSR
 
 - Attack : 100ms à 5000ms (contrôlable)
 - Decay : 100ms à 5000ms (contrôlable)
