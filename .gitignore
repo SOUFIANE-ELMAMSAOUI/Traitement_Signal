@@ -1,0 +1,4 @@
+.metadata/
+*.log
+*.tmp
+.DS_Store
